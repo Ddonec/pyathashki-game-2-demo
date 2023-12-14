@@ -105,6 +105,14 @@
       border-radius: 30px;
    }
 }
+@media (min-height: 501px) {
+   .botoom-smoke {
+      background-position: bottom;
+   }
+   .top-smoke {
+      background-position: top;
+   }
+}
 
 @media (max-height: 500px) and (orientation: landscape) {
    .game-and-buttons {
