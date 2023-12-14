@@ -1,1 +1,1 @@
-# pyathashki-game-2-demo
+https://ddonec.github.io/pyathashki-game-2-demo/index.html
